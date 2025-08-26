@@ -1,12 +1,12 @@
-# GitHub Codespaces ♥️ .NET
+# @Cunero
 
-Want to try out the latest performance improvements coming with .NET for web development? 
+readme modificado por autor.
 
-This repo builds a Weather API, OpenAPI integration to test with [Scalar](https://learn.microsoft.com/aspnet/core/fundamentals/openapi/using-openapi-documents?view=aspnetcore-9.0#use-scalar-for-interactive-api-documentation), and displays the data in a web application using Blazor with .NET. 
 
-We've given you both a frontend and backend to play around with and where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Este Trust es implementado con la intención de prueba.
+
+El codespace N-cleo-de-hierro es implementado como una accesible y sustentada mesa de trabajo.
 
 ### Run Options
 
@@ -19,8 +19,7 @@ You can also run this repository locally by following these instructions:
 
 ## Getting started
 
-1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/github/dotnet-codespaces), giving you a fully configured cloud developer environment.
-2. **▶️ Run all, one-click again**: Use VS Code's built-in *Run* command and open the forwarded ports *8080* and *8081* in your browser. 
+1. ▶️ Run
 
 ![Debug menu in VS Code showing Run All](images/RunAll.png)
 
@@ -28,7 +27,7 @@ You can also run this repository locally by following these instructions:
 
 ![A website showing weather](images/BlazorApp.png)
 
-!["UI showing testing an API"](images/scalar.png)
+!["UI showingwing testing an API"](images/scalar.png)
 
 
 4. **🔄 Iterate quickly:** Codespaces updates the server on each save, and VS Code's debugger lets you dig into the code execution.
@@ -44,9 +43,6 @@ This project welcomes contributions and suggestions.  Most contributions require
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
