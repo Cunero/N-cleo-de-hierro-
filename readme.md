@@ -1,6 +1,4 @@
-# @Cunero
 
-readme modificado por autor.
 
 
 
